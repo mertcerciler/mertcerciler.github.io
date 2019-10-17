@@ -3,6 +3,11 @@ body {
   margin: 0;
 }
 
+.backgrnd {
+  width: 100%;
+  background-color: black;
+}
+
 .nav-li a {
   list-style-type: none;
   margin-left: 5%;
@@ -23,7 +28,10 @@ body {
 .border-bot {
   border-bottom: 2px solid black;
 }
-.backgrnd {
-  width: 100%;
-  background-color: black;
+.main-title {
+  font-size: 4em;
+  color: black;
+  font-family: 'IM Fell Double Pica', serif;
+  
 }
+
