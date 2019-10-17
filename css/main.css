@@ -34,8 +34,11 @@ body {
 }
 .border-bot {
   border-bottom: 4px solid black;
-  width: 35%;
-  margin-left: 30%;
+  width: 37%;
+  margin-left: 33%;
 }
-
+.team-members-img {
+  width: 15%;
+  border-radius: 10%;
+}
 
