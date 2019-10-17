@@ -26,5 +26,6 @@ body {
   border-bottom: 2px solid white;
 }
 .backgrnd {
+  width: 100%;
   background-color: black;
 }
