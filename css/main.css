@@ -28,9 +28,11 @@ body {
   font-family: 'Big Shoulders Text', cursive;
 }
 .main-title {
-  font-size: 4em;
+  font-size: 8em;
   color: black;
   font-family: 'Mansalva', cursive;
+  margin-top: 40%;
+  text-align: center;
 }
 .border-bot {
   border-bottom: 2px solid black;
