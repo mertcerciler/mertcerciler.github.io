@@ -30,12 +30,13 @@ body {
 .main-title {
   font-size: 8em;
   color: black;
-  font-family: 'Mansalva', cursive;
+  font-family: 'Hepta Slab', serif;
   margin-top: 40%;
   text-align: center;
 }
 .border-bot {
   border-bottom: 2px solid black;
+  width: 100%;
 }
 
 
