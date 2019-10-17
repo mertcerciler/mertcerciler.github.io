@@ -8,16 +8,18 @@ body {
   text-align: center;
   margin-right: 15%;
   color: white;
+  display: inline;
   font-size: 2em;
-  font-family: 'Sans MS';
+  font-family: 'Arial';
 }
 .nav-li {
   list-style-type: none;
   text-align: center;
   margin-right: 15%;
   color: white;
+  display: inline;
   font-size: 2em;
-  font-family: 'Sans MS';
+  font-family: 'Arial';
 }
 
 .backgrnd {
