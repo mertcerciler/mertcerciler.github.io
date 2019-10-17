@@ -19,3 +19,7 @@ body {
   font-size: 2em;
   font-family: 'Sans MS';
 }
+
+.backgrnd {
+  background-color: black;
+}
