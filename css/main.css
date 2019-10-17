@@ -3,6 +3,14 @@ body {
   margin: 0;
 }
 
+nav-li a {
+  list-style-type: none;
+  text-align: center;
+  margin-right: 15%;
+  color: white;
+  font-size: 2em;
+  font-family: 'Sans MS';
+}
 nav-li {
   list-style-type: none;
   text-align: center;
