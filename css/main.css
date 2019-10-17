@@ -22,6 +22,9 @@ body {
   font-family: 'Big Shoulders Text', cursive;
 }
 
+.border-bot {
+  border-bottom: 2px solid white;
+}
 .backgrnd {
   background-color: black;
 }
