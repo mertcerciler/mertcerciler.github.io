@@ -33,7 +33,11 @@ body {
   font-family: 'Hepta Slab', serif;
   margin-top: 10%;
   text-align: center;
-  border-bottom: 2px solid black;
+}
+.border-bot {
+  border-bottom: 4px solid black;
+  width: 50%;
+  margin-left: 35%;
 }
 
 
