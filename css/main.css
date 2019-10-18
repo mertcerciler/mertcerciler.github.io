@@ -55,4 +55,8 @@ body {
   display: inline-block;
   margin-left: 5%;
 }
-
+.description-backgrnd {
+  background-color: black;
+  width: 20%;
+  display: inline-block;
+}
