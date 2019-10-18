@@ -59,4 +59,34 @@ body {
   background-color: black;
   width: 20%;
   display: inline-block;
+  float: left;
+}
+.description-backgrnd-2 {
+  background-color: black;
+  width: 20%;
+  display: inline-block;
+  float: right;
+}
+.description-element {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.description-writing {
+  color: black;
+  font-family: 'Hepta Slab', serif;
+  margin-left: 5%;
+  line-height: 1.5em;
+  float: right;
+  margin-right: 5%;
+  display: inline-block;
+}
+.description-writing-2 {
+  color: black;
+  font-family: 'Hepta Slab', serif;
+  margin-left: 5%;
+  line-height: 1.5em;
+  float: left;
+  margin-right: 5%;
+  display: inline-block;
 }
