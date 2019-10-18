@@ -40,7 +40,17 @@ body {
 }
 .team-members-img {
   width: 100px;
-  border-radius: 100%;
+  border-radius: 5%;
   display: inline-block;
+}
+.team-members-element {
+  border-bottom: 2px solid black;
+  width: 50%;
+  margin-left: 10%;
+}
+.team-members-name {
+  font-family: 'Hepta Slab', serif;
+  display: inline-block;
+  margin-left: 5%;
 }
 
