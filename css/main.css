@@ -73,6 +73,7 @@ body {
   margin: 0;
   padding: 0;
 }
+
 .description-writing {
   color: black;
   font-family: 'Hepta Slab', serif;
@@ -90,4 +91,9 @@ body {
   float: left;
   margin-right: 5%;
   display: inline-block;
+}
+.reports-element {
+  list-style-type: none;
+  margin-left: 15%;
+  margin-top: 5%;
 }
