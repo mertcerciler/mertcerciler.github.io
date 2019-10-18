@@ -44,7 +44,6 @@ body {
 }
 .team-members-element {
   border-bottom: 2px solid black;
-  border-radius: 5%;
   width: 30%;
   margin-left: 11%;
   display: inline-block;
