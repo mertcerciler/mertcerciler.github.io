@@ -4,7 +4,8 @@ body {
 }
 .backgrnd {
   width: 100%;
-  background-color :#0863bd;
+  background-color: #17a2b8;
+  padding-bot: 10%;
 }
 .nav-li a {
   text-align: center;
@@ -28,13 +29,13 @@ body {
 }
 .main-title {
   font-size: 10em;
-  color: black;
+  color: white;
   font-family: 'Hepta Slab', serif;
   margin-top: 10%;
   text-align: center;
 }
 .border-bot {
-  border-bottom: 4px solid black;
+  border-bottom: 4px solid white;
   width: 37%;
   margin-left: 33%;
 }
