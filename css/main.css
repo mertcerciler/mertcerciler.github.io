@@ -99,3 +99,12 @@ body {
   font-size: 3em;
   font-family: 'Big Shoulders Text', cursive;
 }
+@media screen and (max-width: 992px){
+  .backgrnd {
+    padding-bot: 20%;
+  }
+  nav {
+    margin-bottom: 35%;
+  }
+}
+}
