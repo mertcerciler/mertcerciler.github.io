@@ -106,5 +106,7 @@ body {
   nav {
     margin-bottom: 35%;
   }
-}
+  .main-title {
+    font-size: 7em;
+  }
 }
