@@ -7,6 +7,12 @@ body {
   background-color: #17a2b8;
   padding-bot: 10%;
 }
+.descrptn {
+  font-family: 'Courgette', cursive;
+  color: grey;
+  text-align: center;
+  width: 75%;
+}
 .nav-li a {
   text-align: center;
   list-style-type: none;
