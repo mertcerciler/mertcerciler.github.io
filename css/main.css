@@ -2,6 +2,10 @@ body {
   padding: 0;
   margin: 0;
 }
+.nav-li {
+  display: inline-block;
+  list-decoration-type: none;
+}
 .nav-li a {
   text-align: center;
   list-style-type: none;
