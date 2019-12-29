@@ -53,6 +53,7 @@ body {
 }
 .team-members-title{
     margin: auto;
+    margin-top: 5%;
     font-family: 'Courgette', cursive;
     font-size: 3em;
     text-decoration: underline;
@@ -61,7 +62,14 @@ body {
 .team-members-img{
     display: inline-block;
     margin-left: 10%;
-    width: 150px;
+    width: 10%;
+}
+.team-members-names{
+    display: inline-block;
+    margin-left: 7%;
+    width: 10%;
+    color: grey;
+    font-family: 'Courgette', cursive;
 }
 .reports-element {
     list-style-type: none;
