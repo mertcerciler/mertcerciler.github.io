@@ -51,6 +51,13 @@ body {
     display: inline-block;
     width: 100%;
 }
+.team-members-title{
+    margin: auto;
+    font-family: 'Courgette', cursive;
+    font-size: 3em;
+    text-decoration: underline;
+    font-style: bold;
+}
 .team-members-img{
     display: inline-block;
     margin-left: 10%;
