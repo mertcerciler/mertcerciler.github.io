@@ -52,7 +52,8 @@ body {
     width: 100%;
 }
 .team-members-title{
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 5%;
     font-family: 'Courgette', cursive;
     font-size: 3em;
