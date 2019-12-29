@@ -40,6 +40,9 @@ body {
   text-align: center;
   width: 75%;
   margin-top: 10%;
+  font-size 2.5em;
+  line-height: 2em;
+  margin-left: auto;
 }
 
 .team-members-img {
