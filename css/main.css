@@ -51,7 +51,7 @@ body {
     width: 100%;
 }
 .team-members-title{
-    margin-left: 40%;
+    margin-left: 37%;
     margin-top: 5%;
     font-family: 'Courgette', cursive;
     font-size: 4em;
@@ -94,5 +94,8 @@ body {
     }
     .nav-li a {
         width: 20%;
+    }
+    .team-members-title {
+        margin-left: 30%;
     }
 }
