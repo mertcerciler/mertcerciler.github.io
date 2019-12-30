@@ -80,13 +80,19 @@ body {
     font-family: 'Big Shoulders Text', cursive;
 }
 @media screen and (max-width: 992px){
-.backgrnd {
-  padding-bottom: 20%;
-}
-nav {
-  margin-bottom: 35%;
-}
-.main-title {
-  font-size: 7em;
-}
+    .backgrnd {
+        padding-bottom: 20%;
+    }
+    nav {
+        margin-bottom: 35%;
+    }
+    .main-title {
+        font-size: 7em;
+    }
+    .nav-li {
+        margin-left: 10%;
+    }
+    .nav-li a {
+        width: 20%;
+    }
 }
