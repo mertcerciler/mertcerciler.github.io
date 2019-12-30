@@ -72,6 +72,14 @@ body {
     font-size: 2em;
     font-family: 'Courgette', cursive;
 }
+.reports-title{
+    margin-left: 40%;
+    margin-top: 5%;
+    font-family: 'Courgette', cursive;
+    font-size: 4em;
+    color: #17a2b8;
+    font-style: bold;
+}
 .reports-element {
     list-style-type: none;
     margin-left: 15%;
